@@ -1,0 +1,10 @@
+#### MonProjetGit
+
+Ce projet est un exemple d'utilisation de Git et GitHub. 
+
+## Description
+Le but de ce projet est d'apprendre les bases de Git, notamment la gestion des versions, l'utilisation des branches, et la synchronisation avec un dépôt distant sur GitHub.
+
+## Fichiers
+- `fichier1.txt` : Contient des données d'exemple.
+- `fichier2.txt` : Contient d'autres données d'exemple.
