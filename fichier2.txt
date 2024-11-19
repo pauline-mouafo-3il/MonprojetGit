@@ -1,3 +1,3 @@
-##  Ce projet est une introduction à l'utilisation de Git et GitHub pour le suivi de versions de fichiers et la gestion de projets collaboratifs. Il permet d'explorer les commandes de base de Git, la création de branches, la gestion des commits, ainsi que la synchronisation entre un dépôt local et un dépôt distant.
+###  Ce projet est une introduction à l'utilisation de Git et GitHub pour le suivi de versions de fichiers et la gestion de projets collaboratifs. Il permet d'explorer les commandes de base de Git, la création de branches, la gestion des commits, ainsi que la synchronisation entre un dépôt local et un dépôt distant.
 
 ##  est de maîtriser les étapes essentielles pour créer, suivre et partager un projet sur GitHub, tout en expérimentant différentes fonctionnalités de Git, telles que le stash, merge, rebase, et cherry-pick.
