@@ -48,6 +48,4 @@ Ce projet est conçu pour aider les nouveaux utilisateurs à :
 3. Suivez les étapes du TP pour explorer des fonctionnalités avancées comme `rebase` et `cherry-pick`.
 
 ## Auteur
-Projet réalisé dans le cadre d'un TP sur Git et GitHub pour apprendre les bases de la gestion de versions et du travail collaboratif.
-
-jjjjjjjjjjjjjjjjjj
+Projet réalisé dans le cadre d'un TP sur Git et GitHub pour apprendre les bases de la gestion de versions et du travail collaboratif
